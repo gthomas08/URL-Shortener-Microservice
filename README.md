@@ -1,5 +1,7 @@
 # URL Shortener Microservice
 
+[![Run on Repl.it](https://repl.it/badge/github/GTS08/URL-Shortener-Microservice)](https://repl.it/github/GTS08/URL-Shortener-Microservice)
+
 ## About The Project
 
 This project is part of the FreeCodeCamp Back End Development and APIs curriculum.
@@ -35,7 +37,7 @@ You can find more information [here](https://www.freecodecamp.org/learn/back-end
    ```
 4. Add the following environment variable to .env file
 
-  `MONGO_URI`
+   `MONGO_URI`
 
 ## Usage
 
